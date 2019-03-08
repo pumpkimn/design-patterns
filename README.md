@@ -28,3 +28,9 @@
 
 > Abstract Factory提供了一个用于创建相关对象族的接口，而无需指定具体的类。
 
+
+
+# Recommended data
+
+[**100-words-design-patterns-java**](https://github.com/dstar55/100-words-design-patterns-java)
+
